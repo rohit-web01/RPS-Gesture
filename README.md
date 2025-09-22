@@ -1,12 +1,57 @@
-# React + Vite
+🔮 GESTURE RPS GAME 🖐️✨
+Welcome to a modern take on the classic game of Rock-Paper-Scissors! This project is a fully interactive, real-time game controlled entirely by your hand gestures. Built with the latest web technologies, it runs completely in your browser with no backend required.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+🤖 In-Browser AI: Utilizes Google's MediaPipe library to perform real-time hand landmark detection and gesture recognition directly on the client-side.
 
-Currently, two official plugins are available:
+🚀 Instant Gameplay: A fast, fluid, and seamless user experience with no delays.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Fully Responsive Design: A beautiful and functional layout that works perfectly on both desktop and mobile screens.
 
-## Expanding the ESLint configuration
+🎨 Animated Background: A vibrant, color-shifting gradient background provides a visually stunning aesthetic.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏆 Complete Game Logic: Features a best-of-5 rounds system, automatic scoring, and a round history table.
+
+📦 Zero Dependencies: No need to run a backend server. The entire application is a single, deployable frontend project.
+
+🛠️ Tech Stack
+Frontend: React.js
+
+Styling: Tailwind CSS
+
+Computer Vision: MediaPipe for Web (@mediapipe/tasks-vision)
+
+🚀 Getting Started
+To run this project on your local machine, follow these simple steps.
+
+1. Clone the Repository:
+
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+
+2. Navigate to the Project Directory:
+
+cd your-repo-name
+
+3. Install Dependencies:
+
+npm install
+
+4. Run the Application:
+
+npm start
+
+The game will open in your browser at http://localhost:3000.
+
+🌐 Deployment
+This project is a static React application and can be easily deployed to any modern web hosting service like Vercel, Netlify, or GitHub Pages.
+
+👤 Connect with Me
+This project was built by Rohit Gehlot. Let's connect!
+
+GitHub
+
+LinkedIn
+
+Portfolio
+
+Instagram
