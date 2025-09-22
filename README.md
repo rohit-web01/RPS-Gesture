@@ -26,7 +26,7 @@ To run this project on your local machine, follow these simple steps.
 
 1. Clone the Repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [[https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git](https://github.com/rohit-web01/RPS-Gesture.git))
 
 2. Navigate to the Project Directory:
 
